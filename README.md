@@ -29,3 +29,8 @@ Cette image peut prendre quelques minutes pour être actualisée.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+
+
+ouiiiii bite
